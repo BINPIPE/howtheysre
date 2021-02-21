@@ -1,4 +1,4 @@
-# How they SRE
+# How they SRE  |[![BINPIPE](https://img.shields.io/badge/YouTube-red.svg)](https://www.youtube.com/channel/UCPTgt4Wo0MAnuzNEEZlk90A)
 
 ![Alt](banner.png "banner")
 
